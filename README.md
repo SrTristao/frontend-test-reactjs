@@ -1,7 +1,7 @@
 # frontend-test-reactjs
 Teste para avaliação do nível técnico para posição de frontend.
 
-## Obrigatório
+## OBRIGATÓRIO
 - [Reactjs](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
 - [Ant design](https://ant.design/)
@@ -20,7 +20,7 @@ Teste para avaliação do nível técnico para posição de frontend.
 - Utilização de expressões regulares;
  
 ## OBJETIVO:
-Criação de uma aplicação de uma lista, utilizando um framework SPA (Vue, React, Angular, etc) de sua escolha.
+Criação de uma aplicação de uma lista, utilizando React.
 Esta aplicação deve consumir uma API, que contenha um array de objetos, sendo que cada objeto tenha ao menos duas propriedades:
 Recomendação de API para consumo: https://pokeapi.co/
 ```
