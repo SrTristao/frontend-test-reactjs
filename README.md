@@ -39,5 +39,5 @@ Exemplo:
 - [PLUS] O filtro de busca deve exibir itens que "correspondam" com o valor aproximado (ex: ao digitar no campo de busca a palavra 'blb', deve-se exibir os itens '' ).
 
 Exemplo:
-![Image](https://raw.githubusercontent.com/baesso/frontend-simple-test/master/notes01.png)
-![Image](https://raw.githubusercontent.com/baesso/frontend-simple-test/master/notes02.png)
+![Image](https://github.com/SrTristao/frontend-test-reactjs/blob/master/notes01.png)
+![Image](https://github.com/SrTristao/frontend-test-reactjs/blob/master/notes02.png)
