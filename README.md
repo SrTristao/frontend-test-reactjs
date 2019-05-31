@@ -41,3 +41,7 @@ Exemplo:
 Exemplo:
 ![Image](https://github.com/SrTristao/frontend-test-reactjs/blob/master/notes01.png)
 ![Image](https://github.com/SrTristao/frontend-test-reactjs/blob/master/notes02.png)
+
+
+## AGRADECIMENTO
+Teste originalmente desenvolvido pelo [Baesso](https://github.com/baesso/frontend-simple-test)
